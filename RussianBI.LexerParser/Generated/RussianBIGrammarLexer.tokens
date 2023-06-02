@@ -1,0 +1,16 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+TABLE_SELECTOR=5
+COLUMN_SELECTOR=6
+LR_BRACKET=7
+RR_BRACKET=8
+WS=9
+NON_EMPTY_STRING=10
+'calc'=1
+'groupBy'=2
+','=3
+'SUM'=4
+'('=7
+')'=8
